@@ -19,6 +19,9 @@ const routes = [
   { path: '/about', component: About },
   { path: '/admin', component: Admin},
   { path: '/policy', component: Policy},
+  { path: '/Vueapp/about', component: About },
+  { path: '/Vueapp/admin', component: Admin},
+  { path: '/Vueapp/policy', component: Policy},
   { path: '/', component: Home }
 ]
 

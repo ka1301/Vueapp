@@ -6,7 +6,7 @@ Vue.js is a library for building user interfaces in JavaScript. This template us
 
 [Check out the official docs here](https://vuejs.org/).
 
-[https://ka1301.github.io/](https://ka1301.github.io/).
+[ https://ka1301.github.io/Vueapp/](https://ka1301.github.io/Vueapp/).
 
 コマンドでアプリを作成。
 Vue　Version"3.4.5"
